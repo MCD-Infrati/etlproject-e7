@@ -1,24 +1,14 @@
 ____________________________________________________________________________________
 
-
-# Project Template
-This is the template for the ETL assignment in the IFRATI 2024-1 court at the Data Science Master, Universidad Icesi, Cali Colombia
-
-This template is based on the template proposed by the [Data Science Working Group] (https://github.com/sfbrigade/data-science-wg) Code for the [San Francisco’s Code initiative](https://github.com/sfbrigade/data-science-wg) 
-
-*Instructions: Edit this template filling in the titles, information, and links! Feel free to stray a bit to suit your project but try to provide the main information for reviews and feedback purposes.*
-## Remove this table after updating your project's information
-____________________________________________________________________________________
-
 # Project Name
-This project is a part of the  **Proyecto 1 de Innovación Tecnológica** course in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia. 
+This project is a part of the  **Infraestructura y Arquitectura de TI** course in the Data Science Master, Universidad Icesi, Cali Colombia. 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Contributing Members
 
-**Team Leader: [Full Name](https://github.com/[github handle])(@slackHandle)**
-**Instructor: [Full Name](https://github.com/[github handle])(@slackHandle)**
+**Member 1: [Luisa F. Giraldo](https://github.com/fernandag21)(@slackHandle)** 
+**Member 2: [Juan S. Guzman](https://github.com/guzmanjs)(@slackHandle)**
 
 #### Other Members:
 
@@ -28,18 +18,12 @@ This project is a part of the  **Proyecto 1 de Innovación Tecnológica** course
 |[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
-* Feel free to contact the team leader or the instructor with any questions or if you are interested in contributing!
+* Feel free to contact the any member of the team with any questions or if you are interested in contributing!
 
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to build an ETL process using Pentaho Data Integration (PDI) in order to obtain a csv file, performing the process of extraction and transformation of the data available in the relational database BD Ames, in csv files and in MongoDB.
 
-### Partner
-This section should be added when there's a partner institution 
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
 
 ### Methods Used
 * Inferential Statistics
