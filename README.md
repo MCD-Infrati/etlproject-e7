@@ -6,16 +6,12 @@ This project is a part of the  **Infraestructura y Arquitectura de TI** course i
 #### -- Project Status: [Active]
 
 ## Contributing Members
-
-**Member 1: [Luisa F. Giraldo](https://github.com/fernandag21)(@slackHandle)** 
-**Member 2: [Juan S. Guzman](https://github.com/guzmanjs)(@slackHandle)**
-
-#### Other Members:
-
 |Name     |  Email   | 
 |---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+|**Member 1: [Luisa F. Giraldo]**| (https://github.com/fernandag21)|
+|**Member 2: [Juan S. Guzman]**|(https://github.com/guzmanjs)|
+
+
 
 ## Contact
 * Feel free to contact the any member of the team with any questions or if you are interested in contributing!
@@ -33,14 +29,12 @@ The purpose of this project is to build an ETL process using Pentaho Data Integr
 * etc.
 
 ### Technologies
-* R 
-* Python
-* D3
+
 * PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* MongoDB
+* VSCode
+* Git & Github
+
 
 ## Project Description
 (Provide a more detailed overview of the project.  Talk a bit about your data sources and what questions and hypotheses you are exploring. What specific data analysis/visualization and modeling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
